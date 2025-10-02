@@ -14,4 +14,7 @@ typedef struct _PersonList {
 Person* createPerson(int src, int dest);
 PersonList* insert(Person *p, PersonList *list);
 
+int size(PersonList *list);
+PersonList* revert(PersonList *list);
+
 #endif

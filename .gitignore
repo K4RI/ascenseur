@@ -1,0 +1,5 @@
+﻿ncurses-6.5/
+demo_ncurses
+main
+*.class
+*.o
